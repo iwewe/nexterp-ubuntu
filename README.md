@@ -7,7 +7,7 @@ This bash script automates the installation of NextERP on Ubuntu using Docker. I
 1. Clone this repository to your Ubuntu server or download the script:
 
     ```bash
-    wget https://raw.githubusercontent.com/iwewe/nexterp-ubuntu/main/install_nexterp.sh
+    wget https://github.com/iwewe/nexterp-ubuntu/blob/main/install_nexterp.sh
     ```
 
 2. Make the script executable:
