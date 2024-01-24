@@ -44,7 +44,7 @@ This bash script automates the installation of NextERP on Ubuntu using Docker. I
 
 ## Support and Contribution
 
-For more information and support, visit the [NextERP GitHub repository](https://github.com/nexterp/nexterp). Contributions are welcome!
+For more information and support, visit the [NextERP GitHub repository](https://frappeframework.com/docs/user/en/installation#debian-ubuntu). Contributions are welcome!
 
 ## License
 
